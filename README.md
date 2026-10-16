@@ -1,16 +1,20 @@
-## Hi there 👋
+## Khanh Linh Ha
 
-<!--
-**klinhha/klinhha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Germany | khanhlinh.ha225@gmail.com
 
-Here are some ideas to get you started:
+---
+😊 About me 
+--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, my name is Khanh Linh Ha, a Master's student in **International Management and Information Systems**, passionate about **Data Analytics** and turning data into meaningful insights. I'm continuously developing my skills in **SQL, Python, Excel, and Power BI** to explore data, solve business problems, and support data-driven decision-making.
+
+I'm always open to new opportunities, collaborations, and projects where I can apply my skills and create meaningful impact. 
+
+Feel free to connect! ❤️
+
+---
+My featured projects
+--
+
+
+
