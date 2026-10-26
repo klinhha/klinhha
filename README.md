@@ -46,5 +46,8 @@ Analyzed e-wallet transaction data using Python and Pandas to identify transacti
 
 ---
 
+[**VietDist Sales Analytics Pipeline | Python**](https://github.com/klinhha/vietdist-sales-analytics-pipeline)
 
+An end-to-end sales distribution data pipeline built with Python and PostgreSQL using a Medallion Architecture. It automates Google Drive data ingestion, executes advanced data transformations, and structures data into a star-schema data warehouse.
 
+---
