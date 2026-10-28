@@ -6,7 +6,7 @@
 😊 About me 
 --
 
-Hi, my name is Khanh Linh Ha, a Master's student in **International Management and Information Systems**, passionate about **Data Analytics** and turning data into meaningful insights. I'm continuously developing my skills in **SQL, Python, and Power BI** to explore data, solve business problems, and support data-driven decision-making.
+I’m currently pursuing a Master’s degree in **International Management and Information Systems**, passionate about **Data Analytics** and turning data into meaningful insights. I'm continuously developing my skills in **SQL, Python, and Power BI** to explore data, solve business problems, and support data-driven decision-making.
 
 I'm always open to new opportunities, collaborations, and projects where I can apply my skills and create meaningful impact. 
 
@@ -51,3 +51,32 @@ Analyzed e-wallet transaction data using Python and Pandas to identify transacti
 An end-to-end sales distribution data pipeline built with Python and PostgreSQL using a Medallion Architecture. It automates Google Drive data ingestion, executes advanced data transformations, and structures data into a star-schema data warehouse.
 
 ---
+⚒️ Technical Skills
+--
+**Programming & Querying**: SQL (JOINs, CTEs, Window Functions), Python (Pandas, NumPy)
+
+**Data Visualization & BI**: Power BI (DAX, Data Modeling, Dashboarding), Matplotlib, Seaborn
+
+**Data Analytics**: Exploratory Data Analysis (EDA), Data Wrangling, Funnel Analysis, Cohort Analysis, Data Cleaning
+
+**Databases & Tools**: PostgreSQL, Google BigQuery, Excel, Git/GitHub, Google Colab
+
+---
+🎓 Education & Certifications
+--
+04.2025 - present
+**MSc. International Management and Information Systems** - South Westphalia University of Applied Science 
+- Relevant Courseworks:  Business Intelligence, E - Business, Business Informatics, Information Management, Digital Transformation
+
+**Certifications**
+- **SQL**: Hacker Rank (Advanced), DataCamp
+- **Python**: DataCamp
+- **Power BI**: DataCamp
+- **KNIME**: KNIME Analytics Platform (Basic)
+
+---
+🎤 Language
+--
+- **English** - C1
+- **German** - B1
+- **Vietnamese** - Native
